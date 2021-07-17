@@ -14,8 +14,8 @@
 
  <div>
   <a href="https://github.com/995-Matheus-Lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=995-Matheus-Lima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=995-Matheus-Lima&layout=compact&langs_count=7&theme=dracula"/>
 
  </div>
 
