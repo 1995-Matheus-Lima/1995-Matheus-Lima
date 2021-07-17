@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Dear!
+
+   My name is Matheus i'm from Brazil 🇧🇷, i'm a student of Information System at Federal U niversity of Minas Gerais since 2021, but i have been learning skills of Front-end development since 2019.
+  
+   i'm passionate in education and tecnologhy and get excite every time when i stay in front to some challenge that i don't enough to solve because it will take me out of my comfort zone and i will grow up as a professional.
+
+
 
 <!--
 **1995-Matheus-Lima/1995-Matheus-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
