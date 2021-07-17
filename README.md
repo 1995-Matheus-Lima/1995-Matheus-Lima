@@ -1,10 +1,16 @@
-### Hi Dear!
+# Hi There!
 
-   My name is Matheus i'm from Brazil 🇧🇷, i'm a student of Information System at Federal U niversity of Minas Gerais since 2021, but i have been learning skills of Front-end development since 2019.
+   My name is Matheus i'm from Brazil 🇧🇷, i'm a student of Information System at Federal University of Minas Gerais since 2021, but i have been learning skills of Front-end development since 2019.
   
-   i'm passionate in education and tecnologhy and get excite every time when i stay in front to some challenge that i don't enough to solve because it will take me out of my comfort zone and i will grow up as a professional.
+   i'm passionate in education and tecnologhy and get excited every time when i stay in front to some challenge that i don't enough to solve because it will take me out of my comfort zone and i will grow up as a professional.
 
-
+###📈 Direct informations about me
+   🏘️ live in Belo Horizonte - MG - Brazil
+   📚 Information Systems- Federal University of Minas Gerais (2021-?)
+   📚 Course of English, low intermediate level at CENEX
+   📚 Course of Web Design in Origamid ✔️
+   📚 Course of JavaScript in Origamid ✔️
+   💚 love tecnologhy and Education
 
 <!--
 **1995-Matheus-Lima/1995-Matheus-Lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
