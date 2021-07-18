@@ -1,6 +1,6 @@
 # Hi There!
 
-   My name is Matheus i'm from Brazil 🇧🇷, i'm a student of Information System at Federal University of Minas Gerais since 2021 and i have been learning skills of Front-end development since 2019.
+   My name is Matheus i'm from Brazil 🇧🇷, i'm a student of Information Systems at Federal University of Minas Gerais since 2021 and i have been learning skills of Front-end development since 2019.
   
    i'm passionate in education and tecnologhy and get excited every time when i stay in front to some challenge that i don't have knowledge enough to solve because it will take me out of my comfort zone and make me grow up as a professional.
 
