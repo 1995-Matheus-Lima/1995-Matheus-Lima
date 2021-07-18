@@ -11,10 +11,7 @@
    - 📚 Course of Web Design in Origamid ✔️
    - 📚 Course of JavaScript in Origamid ✔️
    - 💚 love tecnologhy and Education
-  
-<div style={{display:'block', margin:'20px auto'}}>
- ![image](https://user-images.githubusercontent.com/71905614/126051854-894ea222-9383-43f3-8323-32485050bdf7.png)
-</div>
+
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-275411151/)](https://www.linkedin.com/in/matheus-henrique-275411151/) 
 <!--
