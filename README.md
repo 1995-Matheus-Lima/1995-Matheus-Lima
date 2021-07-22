@@ -5,12 +5,12 @@
    i'm passionate in education and tecnologhy and get excited every time when i stay in front to some challenge that i don't have knowledge enough to solve because it will take me out of my comfort zone and make me grow up as a professional.
 
 ### 📈 Direct informations about me
-   - 🏘️ live in Belo Horizonte - MG - Brazil
+   - 🏘️ Belo Horizonte - MG - Brazil
    - 📚 Information Systems- Federal University of Minas Gerais (2021-?)
    - 📚 Course of English, low intermediate level at CENEX
    - 📚 Course of Web Design in Origamid ✔️
    - 📚 Course of JavaScript in Origamid ✔️
-   - 💚 Love Technology and education
+   - 💚 Technology and education
 
 <p align="center">
    <img src="https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif">
