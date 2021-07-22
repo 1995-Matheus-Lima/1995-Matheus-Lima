@@ -17,7 +17,7 @@
 </p>
 
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1995-Matheus-Lima&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1995-Matheus-Lima&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1995-Matheus-Lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
