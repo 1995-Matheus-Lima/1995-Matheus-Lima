@@ -4,13 +4,15 @@
   
    i'm passionate in education and tecnologhy and get excited every time when i stay in front to some challenge that i don't have knowledge enough to solve because it will take me out of my comfort zone and make me grow up as a professional.
 
-###📈 Direct informations about me
+### 📈 Direct informations about me
    - 🏘️ live in Belo Horizonte - MG - Brazil
    - 📚 Information Systems- Federal University of Minas Gerais (2021-?)
    - 📚 Course of English, low intermediate level at CENEX
    - 📚 Course of Web Design in Origamid ✔️
    - 📚 Course of JavaScript in Origamid ✔️
    - 💚 love tecnologhy and Education
+   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1995-Matheus-Lima&show_icons=true&theme=radical)
 
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-henrique-275411151/)](https://www.linkedin.com/in/matheus-henrique-275411151/) 
