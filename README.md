@@ -12,7 +12,7 @@
    - 📚 Course of JavaScript in Origamid ✔️
    - 💚 love tecnologhy and Education
 
-<p align="right" top="-30px" >
+<p align="center">
    <img src="https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif">
 </p>
 
