@@ -10,7 +10,7 @@
    - 📚 Course of English, low intermediate level at CENEX
    - 📚 Course of Web Design in Origamid ✔️
    - 📚 Course of JavaScript in Origamid ✔️
-   - 💚 love tecnologhy and Education
+   - 💚 Love Technology and education
 
 <p align="center">
    <img src="https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif">
