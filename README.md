@@ -13,7 +13,8 @@
    - 💚 love tecnologhy and Education
 
 <p align="center">
-![narutinho](https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif)  
+   <img src="https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif">
+![narutinho]()  
 </p>
 
    
