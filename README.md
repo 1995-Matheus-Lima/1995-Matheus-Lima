@@ -10,6 +10,8 @@
    - 📚 Course of English, low intermediate level at CENEX
    - 📚 Course of Web Design in Origamid ✔️
    - 📚 Course of JavaScript in Origamid ✔️
+   - 📚 Research student at Wireless Network Lab - UFMG work in cybersecurity ✔️
+   - 📚 Article accepted and published in SBseg 2023 ✔️
    - 💚 Technology and education
 
 <p align="center">
