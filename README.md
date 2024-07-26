@@ -14,10 +14,6 @@
    - 📚 Article accepted and published in SBseg 2023 ✔️
    - 💚 Technology and education
 
-<p align="center">
-   <img src="https://github.com/1995-Matheus-Lima/1995-Matheus-Lima/blob/main/fa9775da859923c4cc65608ada8e8d81.gif">
-</p>
-
    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1995-Matheus-Lima&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1995-Matheus-Lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
